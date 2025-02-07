@@ -1,0 +1,158 @@
+{
+  "nav": {
+    "products": "Products",
+    "solutions": "Solutions",
+    "developers": "Developers",
+    "resources": "Resources",
+    "pricing": "Pricing",
+    "signIn": "Sign in",
+    "contactSales": "Contact sales"
+  },
+  "hero": {
+    "badge": "New",
+    "title": {
+      "start": "Simple way to ",
+      "highlight": "grow your business",
+      "end": ""
+    },
+    "description": "Accept payments, send money, and manage your business finances in one place.",
+    "emailPlaceholder": "Enter your work email",
+    "startNow": "Start now",
+    "socialProof": "Join 10,000+ businesses already growing"
+  },
+  "promo": {
+    "sessions": "Sessions 2025",
+    "registration": "Early-bird registration now open"
+  },
+  "partners": {
+    "title": "Trusted by leading companies worldwide",
+    "subtitle": "Join thousands of businesses already using our platform",
+    "companies": {
+      "1": "Shopify",
+      "2": "Airbnb",
+      "3": "DoorDash",
+      "4": "Uber",
+      "5": "Spotify",
+      "6": "Dropbox",
+      "7": "Slack",
+      "8": "Zoom"
+    }
+  },
+  "features": {
+    "title": "Everything you need to succeed",
+    "subtitle": "Powerful tools and APIs to accept payments and grow your business globally.",
+    "payments": {
+      "title": "Payments",
+      "description": "Accept payments online, in-person, or through your platform."
+    },
+    "globalScale": {
+      "title": "Global Scale",
+      "description": "Process transactions in 135+ currencies with local acquiring."
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Get detailed insights about your business performance."
+    },
+    "security": {
+      "title": "Security",
+      "description": "Protect your business with advanced fraud prevention."
+    },
+    "mobile": {
+      "title": "Mobile First",
+      "description": "Build seamless experiences across all devices."
+    },
+    "payouts": {
+      "title": "Instant Payouts",
+      "description": "Access your funds instantly with real-time payouts."
+    }
+  },
+  "stats": {
+    "title": "Powering millions of transactions",
+    "subtitle": "Our platform processes billions in payments annually with industry-leading reliability",
+    "metrics": {
+      "uptime": "Uptime",
+      "currencies": "Currencies",
+      "apiRequests": "API Requests",
+      "countries": "Countries"
+    }
+  },
+  "cta": {
+    "title": "Ready to get started?",
+    "description": "Join millions of businesses using our platform to accept payments, send payouts, and manage their finances.",
+    "createAccount": "Create account",
+    "contactSales": "Contact sales"
+  },
+  "footer": {
+    "tagline": "Payment infrastructure for the internet",
+    "copyright": "© 2025 Company, Inc. All rights reserved.",
+    "socialLinks": {
+      "x": "X",
+      "github": "GitHub",
+      "linkedin": "LinkedIn"
+    },
+    "sections": {
+      "products": "Products",
+      "solutions": "Solutions",
+      "developers": "Developers",
+      "resources": "Resources"
+    },
+    "links": {
+      "products": {
+        "1": "Payments",
+        "2": "Billing",
+        "3": "Connect",
+        "4": "Payouts",
+        "5": "Terminal",
+        "6": "Financial Connections",
+        "7": "Corporate Card",
+        "8": "Capital",
+        "9": "Treasury",
+        "10": "Tax",
+        "11": "Radar",
+        "12": "Data Pipeline",
+        "13": "Atlas",
+        "14": "Climate",
+        "15": "Apps",
+        "16": "Identity"
+      },
+      "solutions": {
+        "1": "SaaS",
+        "2": "Platforms",
+        "3": "Marketplaces",
+        "4": "Ecommerce",
+        "5": "Enterprise",
+        "6": "Global Businesses",
+        "7": "Startups",
+        "8": "Finance Automation",
+        "9": "Embedded Finance"
+      },
+      "developers": {
+        "1": "Documentation",
+        "2": "API Reference",
+        "3": "API Status",
+        "4": "API Changelog",
+        "5": "Build a Platform",
+        "6": "Developer Tools",
+        "7": "Plugin Library",
+        "8": "API Guides"
+      },
+      "resources": {
+        "1": "Support",
+        "2": "Blog",
+        "3": "Customer Stories",
+        "4": "Partners",
+        "5": "Enterprise",
+        "6": "Pricing",
+        "7": "Security",
+        "8": "Contact Sales",
+        "9": "Jobs"
+      }
+    },
+    "legal": {
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "cookieSettings": "Cookie Settings",
+      "sitemap": "Sitemap"
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "nav": {
+    "products": "產品",
+    "solutions": "解決方案",
+    "developers": "開發者",
+    "resources": "資源",
+    "pricing": "定價",
+    "signIn": "登入",
+    "contactSales": "聯繫銷售"
+  },
+  "hero": {
+    "badge": "新功能",
+    "title": {
+      "start": "簡單方式",
+      "highlight": "助力業務成長",
+      "end": ""
+    },
+    "description": "在同一平台上接受付款、發送資金和管理業務財務。",
+    "emailPlaceholder": "輸入您的工作信箱",
+    "startNow": "立即開始",
+    "socialProof": "已有超過10,000家企業正在使用"
+  },
+  "promo": {
+    "sessions": "2025 大會",
+    "registration": "早鳥註冊現已開放"
+  },
+  "features": {
+    "title": "成功所需的一切",
+    "subtitle": "強大的工具和API，助您接受支付並在全球範圍內發展業務。",
+    "payments": {
+      "title": "支付",
+      "description": "通過線上、線下或您的平台接受支付。"
+    },
+    "globalScale": {
+      "title": "全球規模",
+      "description": "支援135多種貨幣的交易處理，提供本地收單服務。"
+    },
+    "analytics": {
+      "title": "數據分析",
+      "description": "獲取詳細的業務表現洞察。"
+    },
+    "security": {
+      "title": "安全",
+      "description": "通過先進的欺詐預防保護您的業務。"
+    },
+    "mobile": {
+      "title": "行動優先",
+      "description": "在所有裝置上打造流暢的體驗。"
+    },
+    "payouts": {
+      "title": "即時付款",
+      "description": "通過實時支付即時訪問您的資金。"
+    }
+  },
+  "stats": {
+    "title": "驅動數百萬筆交易",
+    "subtitle": "我們的平台每年處理數十億支付，提供業界領先的可靠性",
+    "metrics": {
+      "uptime": "運行時間",
+      "currencies": "支援貨幣",
+      "apiRequests": "API請求",
+      "countries": "覆蓋國家"
+    }
+  },
+  "cta": {
+    "title": "準備開始了嗎？",
+    "description": "加入數百萬使用我們平台的企業，接受支付、發送付款並管理財務。",
+    "createAccount": "創建帳戶",
+    "contactSales": "聯絡銷售"
+  },
+  "footer": {
+    "tagline": "網際網路支付基礎設施",
+    "copyright": "© 2025 Company, Inc. 保留所有權利。",
+    "socialLinks": {
+      "x": "X",
+      "github": "GitHub",
+      "linkedin": "領英"
+    },
+    "sections": {
+      "products": "產品",
+      "solutions": "解決方案",
+      "developers": "開發者",
+      "resources": "資源"
+    },
+    "links": {
+      "products": {
+        "1": "支付",
+        "2": "帳單",
+        "3": "連接",
+        "4": "付款",
+        "5": "終端機",
+        "6": "金融連接",
+        "7": "企業卡",
+        "8": "資本",
+        "9": "財務",
+        "10": "稅務",
+        "11": "雷達",
+        "12": "數據管道",
+        "13": "Atlas",
+        "14": "氣候",
+        "15": "應用程式",
+        "16": "身份"
+      },
+      "solutions": {
+        "1": "SaaS",
+        "2": "平台",
+        "3": "市集",
+        "4": "電子商務",
+        "5": "企業",
+        "6": "全球業務",
+        "7": "新創企業",
+        "8": "財務自動化",
+        "9": "嵌入式金融"
+      },
+      "developers": {
+        "1": "文件",
+        "2": "API參考",
+        "3": "API狀態",
+        "4": "API更新日誌",
+        "5": "建構平台",
+        "6": "開發者工具",
+        "7": "外掛程式庫",
+        "8": "API指南"
+      },
+      "resources": {
+        "1": "支援",
+        "2": "部落格",
+        "3": "客戶故事",
+        "4": "合作夥伴",
+        "5": "企業",
+        "6": "定價",
+        "7": "安全",
+        "8": "聯絡銷售",
+        "9": "工作機會"
+      }
+    },
+    "legal": {
+      "privacy": "隱私政策",
+      "terms": "服務條款",
+      "cookieSettings": "Cookie設定",
+      "sitemap": "網站地圖"
+    }
+  },
+  "partners": {
+    "title": "全球領先企業的信賴之選",
+    "subtitle": "加入數千家正在使用我們平台的企業",
+    "companies": {
+      "1": "Shopify",
+      "2": "Airbnb",
+      "3": "DoorDash",
+      "4": "Uber",
+      "5": "Spotify",
+      "6": "Dropbox",
+      "7": "Slack",
+      "8": "Zoom"
+    }
+  }
+}

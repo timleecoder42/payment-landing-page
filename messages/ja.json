@@ -1,0 +1,158 @@
+{
+  "nav": {
+    "products": "製品",
+    "solutions": "ソリューション",
+    "developers": "開発者",
+    "resources": "リソース",
+    "pricing": "料金",
+    "signIn": "ログイン",
+    "contactSales": "営業に問い合わせ"
+  },
+  "hero": {
+    "badge": "新着",
+    "title": {
+      "start": "ビジネスを",
+      "highlight": "成長させる",
+      "end": "シンプルな方法"
+    },
+    "description": "決済の受け付け、送金、ビジネスの財務管理をひとつの場所で。",
+    "emailPlaceholder": "仕事用メールアドレスを入力",
+    "startNow": "今すぐ始める",
+    "socialProof": "すでに10,000社以上の企業が成長を実現"
+  },
+  "promo": {
+    "sessions": "セッション2025",
+    "registration": "アーリーバード登録受付中"
+  },
+  "partners": {
+    "title": "世界中の主要企業に信頼されています",
+    "subtitle": "すでに数千社の企業が当社のプラットフォームを利用しています",
+    "companies": {
+      "1": "Shopify",
+      "2": "Airbnb",
+      "3": "DoorDash",
+      "4": "Uber",
+      "5": "Spotify",
+      "6": "Dropbox",
+      "7": "Slack",
+      "8": "Zoom"
+    }
+  },
+  "features": {
+    "title": "成功に必要なすべてを提供",
+    "subtitle": "決済の受け付けとグローバルなビジネス成長のための強力なツールとAPI",
+    "payments": {
+      "title": "決済",
+      "description": "オンライン、対面、またはプラットフォームを通じて決済を受け付け"
+    },
+    "globalScale": {
+      "title": "グローバル展開",
+      "description": "135以上の通貨でローカル決済処理が可能"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "ビジネスパフォーマンスの詳細な分析"
+    },
+    "security": {
+      "title": "セキュリティ",
+      "description": "高度な不正防止でビジネスを保護"
+    },
+    "mobile": {
+      "title": "モバイルファースト",
+      "description": "すべてのデバイスでシームレスな体験を構築"
+    },
+    "payouts": {
+      "title": "即時支払い",
+      "description": "リアルタイム支払いで資金にすぐにアクセス"
+    }
+  },
+  "stats": {
+    "title": "数百万件の取引を支える",
+    "subtitle": "業界トップクラスの信頼性で年間数十億ドルの決済を処理",
+    "metrics": {
+      "uptime": "稼働時間",
+      "currencies": "対応通貨",
+      "apiRequests": "APIリクエスト",
+      "countries": "対応国"
+    }
+  },
+  "cta": {
+    "title": "始める準備はできましたか？",
+    "description": "決済の受け付け、支払い、財務管理に当社のプラットフォームを利用している数百万の企業に参加しましょう。",
+    "createAccount": "アカウント作成",
+    "contactSales": "営業に問い合わせ"
+  },
+  "footer": {
+    "tagline": "インターネットの決済インフラ",
+    "copyright": "© 2025 Company, Inc. All rights reserved.",
+    "socialLinks": {
+      "x": "X",
+      "github": "GitHub",
+      "linkedin": "LinkedIn"
+    },
+    "sections": {
+      "products": "製品",
+      "solutions": "ソリューション",
+      "developers": "開発者",
+      "resources": "リソース"
+    },
+    "links": {
+      "products": {
+        "1": "決済",
+        "2": "請求",
+        "3": "接続",
+        "4": "支払い",
+        "5": "端末",
+        "6": "金融接続",
+        "7": "法人カード",
+        "8": "キャピタル",
+        "9": "財務",
+        "10": "税務",
+        "11": "不正検知",
+        "12": "データパイプライン",
+        "13": "アトラス",
+        "14": "気候",
+        "15": "アプリ",
+        "16": "本人確認"
+      },
+      "solutions": {
+        "1": "SaaS",
+        "2": "プラットフォーム",
+        "3": "マーケットプレイス",
+        "4": "Eコマース",
+        "5": "エンタープライズ",
+        "6": "グローバルビジネス",
+        "7": "スタートアップ",
+        "8": "財務自動化",
+        "9": "組込型金融"
+      },
+      "developers": {
+        "1": "ドキュメント",
+        "2": "APIリファレンス",
+        "3": "APIステータス",
+        "4": "API変更履歴",
+        "5": "プラットフォーム構築",
+        "6": "開発者ツール",
+        "7": "プラグインライブラリ",
+        "8": "APIガイド"
+      },
+      "resources": {
+        "1": "サポート",
+        "2": "ブログ",
+        "3": "導入事例",
+        "4": "パートナー",
+        "5": "エンタープライズ",
+        "6": "料金",
+        "7": "セキュリティ",
+        "8": "営業に問い合わせ",
+        "9": "採用情報"
+      }
+    },
+    "legal": {
+      "privacy": "プライバシー",
+      "terms": "利用規約",
+      "cookieSettings": "Cookie設定",
+      "sitemap": "サイトマップ"
+    }
+  }
+} 

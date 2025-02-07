@@ -1,0 +1,158 @@
+{
+  "nav": {
+    "products": "产品",
+    "solutions": "解决方案",
+    "developers": "开发者",
+    "resources": "资源",
+    "pricing": "定价",
+    "signIn": "登录",
+    "contactSales": "联系销售"
+  },
+  "hero": {
+    "badge": "新功能",
+    "title": {
+      "start": "简单方式",
+      "highlight": "助力业务增长",
+      "end": ""
+    },
+    "description": "在同一平台上接受付款、发送资金和管理业务财务。",
+    "emailPlaceholder": "输入您的工作邮箱",
+    "startNow": "立即开始",
+    "socialProof": "已有超过10,000家企业正在使用"
+  },
+  "promo": {
+    "sessions": "2025 大会",
+    "registration": "早鸟注册现已开放"
+  },
+  "partners": {
+    "title": "全球领先企业的信赖之选",
+    "subtitle": "加入数千家正在使用我们平台的企业",
+    "companies": {
+      "1": "Shopify",
+      "2": "Airbnb",
+      "3": "DoorDash",
+      "4": "Uber",
+      "5": "Spotify",
+      "6": "Dropbox",
+      "7": "Slack",
+      "8": "Zoom"
+    }
+  },
+  "features": {
+    "title": "成功所需的一切",
+    "subtitle": "强大的工具和API，助您接受支付并在全球范围内发展业务。",
+    "payments": {
+      "title": "支付",
+      "description": "通过线上、线下或您的平台接受支付。"
+    },
+    "globalScale": {
+      "title": "全球规模",
+      "description": "支持135多种货币的交易处理，提供本地收单服务。"
+    },
+    "analytics": {
+      "title": "数据分析",
+      "description": "获取详细的业务表现洞察。"
+    },
+    "security": {
+      "title": "安全",
+      "description": "通过先进的欺诈预防保护您的业务。"
+    },
+    "mobile": {
+      "title": "移动优先",
+      "description": "在所有设备上打造流畅的体验。"
+    },
+    "payouts": {
+      "title": "即时付款",
+      "description": "通过实时支付即时访问您的资金。"
+    }
+  },
+  "stats": {
+    "title": "驱动数百万笔交易",
+    "subtitle": "我们的平台每年处理数十亿支付，提供业界领先的可靠性",
+    "metrics": {
+      "uptime": "运行时间",
+      "currencies": "支持货币",
+      "apiRequests": "API 请求",
+      "countries": "覆盖国家"
+    }
+  },
+  "cta": {
+    "title": "准备开始了吗？",
+    "description": "加入数百万使用我们平台的企业，接受支付、发送付款并管理财务。",
+    "createAccount": "创建账户",
+    "contactSales": "联系销售"
+  },
+  "footer": {
+    "tagline": "互联网支付基础设施",
+    "copyright": "© 2025 Company, Inc. 保留所有权利。",
+    "socialLinks": {
+      "x": "X",
+      "github": "GitHub",
+      "linkedin": "领英"
+    },
+    "sections": {
+      "products": "产品",
+      "solutions": "解决方案",
+      "developers": "开发者",
+      "resources": "资源"
+    },
+    "links": {
+      "products": {
+        "1": "支付",
+        "2": "账单",
+        "3": "连接",
+        "4": "付款",
+        "5": "终端机",
+        "6": "金融连接",
+        "7": "企业卡",
+        "8": "资本",
+        "9": "财务",
+        "10": "税务",
+        "11": "雷达",
+        "12": "数据管道",
+        "13": "Atlas",
+        "14": "气候",
+        "15": "应用程序",
+        "16": "身份"
+      },
+      "solutions": {
+        "1": "SaaS",
+        "2": "平台",
+        "3": "市场",
+        "4": "电子商务",
+        "5": "企业",
+        "6": "全球业务",
+        "7": "创业公司",
+        "8": "财务自动化",
+        "9": "嵌入式金融"
+      },
+      "developers": {
+        "1": "文档",
+        "2": "API参考",
+        "3": "API状态",
+        "4": "API更新日志",
+        "5": "构建平台",
+        "6": "开发者工具",
+        "7": "插件库",
+        "8": "API指南"
+      },
+      "resources": {
+        "1": "支持",
+        "2": "博客",
+        "3": "客户故事",
+        "4": "合作伙伴",
+        "5": "企业",
+        "6": "定价",
+        "7": "安全",
+        "8": "联系销售",
+        "9": "工作机会"
+      }
+    },
+    "legal": {
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "cookieSettings": "Cookie设置",
+      "sitemap": "网站地图"
+    }
+  }
+}

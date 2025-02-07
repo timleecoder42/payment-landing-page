@@ -1,0 +1,158 @@
+{
+  "nav": {
+    "products": "Productos",
+    "solutions": "Soluciones",
+    "developers": "Desarrolladores",
+    "resources": "Recursos",
+    "pricing": "Precios",
+    "signIn": "Iniciar sesión",
+    "contactSales": "Contactar ventas"
+  },
+  "hero": {
+    "badge": "Nuevo",
+    "title": {
+      "start": "La forma simple de ",
+      "highlight": "hacer crecer tu negocio",
+      "end": ""
+    },
+    "description": "Aceptá pagos, enviá dinero y gestioná las finanzas de tu negocio en un solo lugar.",
+    "emailPlaceholder": "Ingresá tu correo laboral",
+    "startNow": "Comenzar ahora",
+    "socialProof": "Unite a más de 10.000 empresas que ya están creciendo"
+  },
+  "promo": {
+    "sessions": "Sesiones 2025",
+    "registration": "Inscripción anticipada ya disponible"
+  },
+  "features": {
+    "title": "Todo lo que necesitás para tener éxito",
+    "subtitle": "Herramientas y APIs poderosas para aceptar pagos y hacer crecer tu negocio globalmente.",
+    "payments": {
+      "title": "Pagos",
+      "description": "Aceptá pagos en línea, en persona o a través de tu plataforma."
+    },
+    "globalScale": {
+      "title": "Escala Global",
+      "description": "Procesá transacciones en más de 135 monedas con adquirencia local."
+    },
+    "analytics": {
+      "title": "Analítica",
+      "description": "Obtené información detallada sobre el rendimiento de tu negocio."
+    },
+    "security": {
+      "title": "Seguridad",
+      "description": "Protegé tu negocio con prevención avanzada de fraude."
+    },
+    "mobile": {
+      "title": "Mobile First",
+      "description": "Construí experiencias fluidas en todos los dispositivos."
+    },
+    "payouts": {
+      "title": "Pagos Instantáneos",
+      "description": "Accedé a tus fondos al instante con pagos en tiempo real."
+    }
+  },
+  "stats": {
+    "title": "Impulsando millones de transacciones",
+    "subtitle": "Nuestra plataforma procesa miles de millones en pagos anualmente con fiabilidad líder en la industria",
+    "metrics": {
+      "uptime": "Tiempo activo",
+      "currencies": "Monedas",
+      "apiRequests": "Solicitudes API",
+      "countries": "Países"
+    }
+  },
+  "cta": {
+    "title": "¿Listo para empezar?",
+    "description": "Unite a millones de empresas que usan nuestra plataforma para aceptar pagos, enviar pagos y administrar sus finanzas.",
+    "createAccount": "Crear cuenta",
+    "contactSales": "Contactar ventas"
+  },
+  "footer": {
+    "tagline": "Infraestructura de pagos para internet",
+    "copyright": "© 2025 Company, Inc. Todos los derechos reservados.",
+    "socialLinks": {
+      "x": "X",
+      "github": "GitHub",
+      "linkedin": "LinkedIn"
+    },
+    "sections": {
+      "products": "Productos",
+      "solutions": "Soluciones",
+      "developers": "Desarrolladores",
+      "resources": "Recursos"
+    },
+    "links": {
+      "products": {
+        "1": "Pagos",
+        "2": "Facturación",
+        "3": "Conectar",
+        "4": "Desembolsos",
+        "5": "Terminal",
+        "6": "Conexiones Financieras",
+        "7": "Tarjeta Corporativa",
+        "8": "Capital",
+        "9": "Tesorería",
+        "10": "Impuestos",
+        "11": "Radar",
+        "12": "Pipeline de Datos",
+        "13": "Atlas",
+        "14": "Clima",
+        "15": "Aplicaciones",
+        "16": "Identidad"
+      },
+      "solutions": {
+        "1": "SaaS",
+        "2": "Plataformas",
+        "3": "Marketplaces",
+        "4": "Comercio Electrónico",
+        "5": "Empresas",
+        "6": "Negocios Globales",
+        "7": "Startups",
+        "8": "Automatización Financiera",
+        "9": "Finanzas Integradas"
+      },
+      "developers": {
+        "1": "Documentación",
+        "2": "Referencia API",
+        "3": "Estado API",
+        "4": "Changelog API",
+        "5": "Construir Plataforma",
+        "6": "Herramientas Dev",
+        "7": "Biblioteca Plugins",
+        "8": "Guías API"
+      },
+      "resources": {
+        "1": "Soporte",
+        "2": "Blog",
+        "3": "Casos de Éxito",
+        "4": "Partners",
+        "5": "Empresas",
+        "6": "Precios",
+        "7": "Seguridad",
+        "8": "Contactar Ventas",
+        "9": "Empleos"
+      }
+    },
+    "legal": {
+      "privacy": "Privacidad",
+      "terms": "Términos",
+      "cookieSettings": "Configuración de Cookies",
+      "sitemap": "Mapa del sitio"
+    }
+  },
+  "partners": {
+    "title": "Empresas líderes confían en nosotros",
+    "subtitle": "Unite a miles de empresas que ya usan nuestra plataforma",
+    "companies": {
+      "1": "Shopify",
+      "2": "Airbnb",
+      "3": "DoorDash",
+      "4": "Uber",
+      "5": "Spotify",
+      "6": "Dropbox",
+      "7": "Slack",
+      "8": "Zoom"
+    }
+  }
+}
