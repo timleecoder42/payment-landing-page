@@ -1,30 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Payment Landing Page
+
+A modern and responsive payment landing page with multi-language support. Built with v0.dev, Next.js and Tailwind CSS.
+
+## Tech Stack
+
+- Next.js 14
+- React 18
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Framer Motion
+- next-intl (i18n)
+
+## Features
+
+- 🌐 Multi-language support
+- 🎨 Modern UI with shadcn components
+- 📱 Fully responsive design
+- ✨ Smooth animations with Framer Motion
+- 🎭 Interactive UI elements
+
+## Supported Languages
+
+- 🇺🇸 English (en)
+- 🇦🇷 Spanish (Argentina) (es-AR)
+- 🇨🇳 Chinese Simplified (zh-CN)
+- 🇹🇼 Chinese Traditional (zh-TW)
+- 🇯🇵 Japanese (ja)
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+# Install dependencies
+pnpm install
+
+# Run development server
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Project Structure
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `/components` - UI components
+- `/lib` - Utilities and helpers
+- `/app` - Next.js app router pages
+- `/messages` - Translation files for each language
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## i18n Routing
 
-## Learn More
+The application uses Next.js 14's app router with next-intl for internationalization. URLs are structured as:
 
-To learn more about Next.js, take a look at the following resources:
+- `/en/*` - English
+- `/es-AR/*` - Spanish (Argentina)
+- `/zh-CN/*` - Simplified Chinese
+- `/zh-TW/*` - Traditional Chinese
+- `/ja/*` - Japanese
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Default locale is set to English (`en`).
